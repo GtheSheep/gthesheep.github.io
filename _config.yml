@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Gary James (GtheSheep)
+description: Portfolio site for Gary James (GtheSheep), UK based Data/ Analytics Engineer.
